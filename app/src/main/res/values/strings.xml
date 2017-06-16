@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinanceApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="interest">Interest Calculator</string>
+    <string name="rate">Enter rate: </string>
+    <string name="term">Enter term: </string>
+    <string name="cost">Enter cost: </string>
+    <string name="submit">Submit</string>
+</resources>
