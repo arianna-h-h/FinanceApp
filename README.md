@@ -1,0 +1,2 @@
+# FinanceApp
+Calculates Compounding Interest
